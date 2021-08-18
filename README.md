@@ -1,4 +1,4 @@
-# siro_model_tools
+# siromodel_tools
 Tools to assist with the building of SiroModel simulations, analyzing simulation data, and presenting results. 
 https://www.lopproject.com/siromode/
 
