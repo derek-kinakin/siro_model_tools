@@ -1,5 +1,5 @@
 # siro_model_tools
-Tools to assist with the building of SiroModel simulations, analysis of simulation data, and presentation of results. 
+Tools to assist with the building of SiroModel simulations, analyzing simulation data, and presenting results. 
 https://www.lopproject.com/siromode/
 
 No code in this repository is associated with the LOP Project or CSIRO.
